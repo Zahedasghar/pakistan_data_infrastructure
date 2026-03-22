@@ -3,7 +3,7 @@ title: "Core Principles for a Modern Data Infrastructure"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch05-principles.svg)
+![](images/ch05-principles.png)
 :::
 
 

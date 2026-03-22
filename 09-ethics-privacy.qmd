@@ -3,7 +3,7 @@ title: "Ethics, Privacy, and the Rights of Data Subjects"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch09-ethics-shield.svg)
+![](images/ch09-ethics-shield.png)
 :::
 
 

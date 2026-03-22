@@ -3,7 +3,7 @@ title: "Why Statistics Matter and Where Pakistan Stands Today"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch01-fragmented-data.svg)
+![](images/ch01-fragmented-data.png)
 :::
 
 

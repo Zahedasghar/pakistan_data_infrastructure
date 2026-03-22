@@ -3,7 +3,7 @@ title: "Understanding Data Infrastructure"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch02-six-components.svg)
+![](images/ch02-six-components.png)
 :::
 
 

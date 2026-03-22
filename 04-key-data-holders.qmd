@@ -3,7 +3,7 @@ title: "Key Data Holders in Pakistan"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch04-data-holders.svg)
+![](images/ch04-data-holders.png)
 :::
 
 

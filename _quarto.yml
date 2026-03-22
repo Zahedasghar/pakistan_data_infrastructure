@@ -50,24 +50,13 @@ format:
     linestretch: 1.65
 
   pdf:
-    documentclass: scrreprt
     papersize: a4
     fontsize: 11pt
-    geometry:
-      - top=30mm
-      - bottom=30mm
-      - left=25mm
-      - right=25mm
     toc: true
     toc-depth: 2
     number-sections: true
-    colorlinks: true
-    linkcolor: "NavyBlue"
-    urlcolor: "NavyBlue"
-    header-includes: |
-      \usepackage{fancyhdr}
-      \pagestyle{fancy}
-      \fancyhead[L]{\small\leftmark}
-      \fancyhead[R]{\small A Vision for National Statistics}
-      \fancyfoot[C]{\thepage}
-      \renewcommand{\headrulewidth}{0.4pt}
+    documentclass: scrbook
+    margin-top: 30mm
+    margin-bottom: 30mm
+    margin-left: 25mm
+    margin-right: 25mm

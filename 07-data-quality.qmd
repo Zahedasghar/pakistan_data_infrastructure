@@ -3,7 +3,7 @@ title: "Data Quality: Fitness for Use"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch07-quality-dimensions.svg)
+![](images/ch07-quality-dimensions.png)
 :::
 
 

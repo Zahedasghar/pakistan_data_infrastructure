@@ -3,7 +3,7 @@ title: "Moving Forward: Priorities and Conclusion"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch11-sequencing.svg)
+![](images/ch11-sequencing.png)
 :::
 
 

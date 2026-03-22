@@ -3,7 +3,7 @@ title: "Organisational Options for the New Infrastructure"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch08-org-models.svg)
+![](images/ch08-org-models.png)
 :::
 
 

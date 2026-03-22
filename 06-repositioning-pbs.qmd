@@ -3,7 +3,7 @@ title: "Repositioning PBS: From Data Collector to National Coordinator"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch06-pbs-transformation.svg)
+![](images/ch06-pbs-transformation.png)
 :::
 
 

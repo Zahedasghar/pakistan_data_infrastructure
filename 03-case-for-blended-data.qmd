@@ -3,7 +3,7 @@ title: "The Case for Blended Data"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch03-blended-data.svg)
+![](images/ch03-blended-data.png)
 :::
 
 

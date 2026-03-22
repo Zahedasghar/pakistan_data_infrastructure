@@ -3,7 +3,7 @@ title: "Preparing for the Future: AI-Ready Data"
 ---
 
 ::: {.chapter-illustration}
-![](images/ch10-ai-ready.svg)
+![](images/ch10-ai-ready.png)
 :::
 
 
