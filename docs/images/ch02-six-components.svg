@@ -1,0 +1,14 @@
+<svg viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="200" fill="#f0f4f8" rx="8"/>
+  <text x="350" y="28" font-size="12" fill="#1B3A5C" text-anchor="middle" font-family="sans-serif" font-weight="700">SIX COMPONENTS OF DATA INFRASTRUCTURE</text>
+  <g transform="translate(45,50)">
+    <rect x="0" y="0" width="90" height="65" rx="6" fill="#1B3A5C"/><text x="45" y="28" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">Data</text><text x="45" y="42" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">Assets</text>
+    <rect x="105" y="0" width="90" height="65" rx="6" fill="#2C5F8A"/><text x="150" y="35" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">Technology</text>
+    <rect x="210" y="0" width="90" height="65" rx="6" fill="#3D85C6"/><text x="255" y="35" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">People</text>
+    <rect x="315" y="0" width="90" height="65" rx="6" fill="#2C5F8A"/><text x="360" y="35" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">Governance</text>
+    <rect x="420" y="0" width="90" height="65" rx="6" fill="#1B3A5C"/><text x="465" y="28" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">Organi-</text><text x="465" y="42" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">sations</text>
+    <rect x="525" y="0" width="90" height="65" rx="6" fill="#3D85C6"/><text x="570" y="28" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">Commu-</text><text x="570" y="42" fill="white" font-size="9" text-anchor="middle" font-family="sans-serif" font-weight="600">nities</text>
+  </g>
+  <rect x="45" y="130" width="610" height="38" rx="6" fill="none" stroke="#3D85C6" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="350" y="154" font-size="11" fill="#2C5F8A" text-anchor="middle" font-family="sans-serif" font-style="italic">Value is realised only when all components work together</text>
+</svg>
