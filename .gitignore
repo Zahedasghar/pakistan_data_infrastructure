@@ -1,0 +1,6 @@
+/.quarto/
+/_book/
+/book_final/
+*.zip
+.DS_Store
+desktop.ini

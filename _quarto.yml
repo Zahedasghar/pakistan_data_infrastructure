@@ -1,0 +1,73 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "A Vision for National Statistics"
+  subtitle: "Building Pakistan's National Data Infrastructure"
+  author: "Zahid Asghar"
+  date: "2026"
+  reader-mode: true
+  page-navigation: true
+  search: true
+  repo-actions: none
+  sidebar:
+    style: docked
+    background: "#f0f4f8"
+  chapters:
+    - index.qmd
+    - part: "Part I — The Problem"
+      chapters:
+        - 01-why-statistics-matter.qmd
+    - part: "Part II — The Framework"
+      chapters:
+        - 02-understanding-data-infrastructure.qmd
+        - 03-case-for-blended-data.qmd
+        - 04-key-data-holders.qmd
+    - part: "Part III — Principles & Governance"
+      chapters:
+        - 05-core-principles.qmd
+        - 06-repositioning-pbs.qmd
+        - 07-data-quality.qmd
+    - part: "Part IV — Implementation & Future"
+      chapters:
+        - 08-organisational-options.qmd
+        - 09-ethics-privacy.qmd
+        - 10-ai-ready-data.qmd
+        - 11-moving-forward.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    fontsize: 1.05em
+    linestretch: 1.65
+
+  pdf:
+    documentclass: scrreprt
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - top=30mm
+      - bottom=30mm
+      - left=25mm
+      - right=25mm
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    linkcolor: "NavyBlue"
+    urlcolor: "NavyBlue"
+    header-includes: |
+      \usepackage{fancyhdr}
+      \pagestyle{fancy}
+      \fancyhead[L]{\small\leftmark}
+      \fancyhead[R]{\small A Vision for National Statistics}
+      \fancyfoot[C]{\thepage}
+      \renewcommand{\headrulewidth}{0.4pt}

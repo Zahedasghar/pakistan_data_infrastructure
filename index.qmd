@@ -1,0 +1,125 @@
+---
+title: "A Vision for National Statistics"
+subtitle: "Building Pakistan's National Data Infrastructure"
+author: "Zahid Asghar"
+---
+
+::: {.hero-banner}
+# A Vision for National Statistics
+
+Building Pakistan's National Data Infrastructure
+
+::: {.subtitle}
+A Framework for Transforming How Pakistan Produces, Shares, and Uses Statistical Information — 2026
+:::
+:::
+
+## About This Book
+
+Pakistan collects an enormous amount of data. NADRA holds biometric records for over 200 million citizens. The Federal Board of Revenue maintains tax files. BISP manages registries of millions of beneficiary households. Provincial health departments operate facility-level reporting systems. Education departments track enrolments and teacher deployments. The Pakistan Bureau of Statistics conducts censuses, labour force surveys, and household economic surveys. The State Bank holds financial transaction data. Dozens of other administrative and private sector datasets exist alongside these.
+
+And yet most of this data sits in institutional silos — collected by different agencies, for different purposes, using different definitions, in incompatible formats, with no systematic mechanism for combining it. The result is that a country of 241 million people makes policy decisions on the basis of information that is often incomplete, outdated, or fragmented.
+
+**The data exists. What is missing is the infrastructure to make it usable.**
+
+This book argues that Pakistan needs a fundamental shift in how it produces and uses statistical information. Not by abandoning surveys, censuses, and other data collection mechanisms — which remain essential — but by building a **National Data Infrastructure** capable of blending survey data with administrative records and other sources to produce statistics that are more timely, more granular, and more useful than any single source can provide alone.
+
+This requires repositioning the Pakistan Bureau of Statistics not away from its role as a data collector, but beyond it — into a national data coordinator. In this expanded role, PBS would continue to produce statistics while also governing data sharing, setting standards, integrating multiple data sources, investing in human capacity, safeguarding the rights of data subjects, and preparing the system for the analytical demands of an AI-driven future. The chapters that follow develop this argument through diagnosis, international evidence, institutional analysis, and a sequenced set of priorities for implementation.
+
+---
+
+## Chapters
+
+::: {.section-group}
+Part I — The Problem
+:::
+
+::: {.chapter-grid}
+
+::: {.chapter-card}
+### [1. Why Statistics Matter and Where Pakistan Stands Today](01-why-statistics-matter.qmd)
+Statistics as national infrastructure, the pressures facing Pakistan's survey-based system, and why the current model — siloed agencies, periodic censuses, standalone surveys — can no longer meet the country's needs.
+:::
+
+:::
+
+::: {.section-group}
+Part II — The Framework
+:::
+
+::: {.chapter-grid}
+
+::: {.chapter-card}
+### [2. Understanding Data Infrastructure](02-understanding-data-infrastructure.qmd)
+What data infrastructure actually means — not just technology, but the combination of data assets, institutional arrangements, skills, governance frameworks, and the communities that sustain them.
+:::
+
+::: {.chapter-card}
+### [3. The Case for Blended Data](03-case-for-blended-data.qmd)
+Why no single data source is sufficient and what it takes to combine survey, administrative, geospatial, and other data sources to produce richer and more timely statistics.
+:::
+
+::: {.chapter-card}
+### [4. Key Data Holders in Pakistan](04-key-data-holders.qmd)
+Who holds the data that matters — from PBS, NADRA, FBR, and SECP to provincial governments, BISP, private sector, and academia. Why coordination is the central challenge with an objective of data integration. 
+:::
+
+:::
+
+::: {.section-group}
+Part III — Principles & Governance
+:::
+
+::: {.chapter-grid}
+
+::: {.chapter-card}
+### [5. Core Principles for a Modern Data Infrastructure](05-core-principles.qmd)
+Seven foundational principles — from people-first protections and statistical purpose to proportionate access, legal authority, governance, transparency, and continuous improvement.
+:::
+
+::: {.chapter-card}
+### [6. Repositioning PBS: From Data Collector to National Coordinator](06-repositioning-pbs.qmd)
+The case for transforming PBS from an agency that not only collects its own data but also coordinates, curates, and governs data flows across the entire national statistical system.
+:::
+
+::: {.chapter-card}
+### [7. Data Quality: Fitness for Use](07-data-quality.qmd)
+Why quality means more than accuracy — fitness for use, the dimensions of quality for blended data, the metadata imperative, and the FAIR principles for making data usable.
+:::
+
+:::
+
+::: {.section-group}
+Part IV — Implementation & Future
+:::
+
+::: {.chapter-grid}
+
+::: {.chapter-card}
+### [8. Organisational Options for the New Infrastructure](08-organisational-options.qmd)
+International models — from the Netherlands' centralised CBS to Estonia's distributed X-Road to Australia's AIHW — and what Pakistan can learn for designing its own institutional arrangement.
+:::
+
+::: {.chapter-card}
+### [9. Ethics, Privacy, and the Rights of Data Subjects](09-ethics-privacy.qmd)
+The care.data cautionary tale, re-identification risks, social licence, group privacy, the Five Safes framework, and why Pakistan's absent data protection law is a credibility crisis for the infrastructure.
+:::
+
+::: {.chapter-card}
+### [10. Preparing for the Future: AI-Ready Data](10-ai-ready-data.qmd)
+What AI-ready means in practice, the FAIR principles for machine consumption, the UK National Data Library concept, and why the data infrastructure — not the algorithm — is the binding constraint.
+:::
+
+::: {.chapter-card}
+### [11. Moving Forward: Priorities and Conclusion](11-moving-forward.qmd)
+A sequenced plan — from data inventory and pilot projects to legal reform and institutional design — and why Pakistan's 241 million people deserve a statistical system equal to the complexity of their lives.
+:::
+
+:::
+
+---
+
+::: {.callout-note}
+## The Core Argument
+**Pakistan does not lack data — it lacks a system.** The task is more than simply collecting data. It is to build the infrastructure — technical, institutional, legal, and human — that connects what exists into a coherent, trustworthy, and usable picture of the country and its people.
+:::
