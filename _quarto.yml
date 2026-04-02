@@ -38,8 +38,7 @@ book:
 
 format:
   html:
-    theme:
-      light: cosmo
+    theme: cosmo
     css: styles.css
     toc: true
     toc-depth: 3
@@ -48,15 +47,3 @@ format:
     link-external-newwindow: true
     fontsize: 1.05em
     linestretch: 1.65
-
-  pdf:
-    papersize: a4
-    fontsize: 11pt
-    toc: true
-    toc-depth: 2
-    number-sections: true
-    documentclass: scrbook
-    margin-top: 30mm
-    margin-bottom: 30mm
-    margin-left: 25mm
-    margin-right: 25mm

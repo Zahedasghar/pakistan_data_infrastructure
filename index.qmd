@@ -16,7 +16,11 @@ A Framework for Transforming How Pakistan Produces, Shares, and Uses Statistical
 
 ## About This Book
 
-Pakistan collects an enormous amount of data. NADRA holds biometric records for over 200 million citizens. The Federal Board of Revenue maintains tax files. BISP manages registries of millions of beneficiary households. Provincial health departments operate facility-level reporting systems. Education departments track enrolments and teacher deployments. The Pakistan Bureau of Statistics conducts censuses, labour force surveys, and household economic surveys. The State Bank holds financial transaction data. Dozens of other administrative and private sector datasets exist alongside these.
+::: {.callout-note title="Note"}
+This is a living document by design and will be updated on an ongoing basis, incorporating inputs from policymakers, researchers, academia, and other stakeholders.
+:::
+
+Data is one of the most valuable assets available to governments. When used effectively, it can improve public services, guide strategic decisions, and build trust with citizens (Van Ooijen, Ubaldi and Welby, 2019; The World Bank, 2021; UNESCO et al., 2025). Pakistan collects an enormous amount of data. NADRA holds biometric records for over 200 million citizens. The Federal Board of Revenue maintains tax files. BISP manages registries of millions of beneficiary households. Provincial health departments operate facility-level reporting systems. Education departments track enrolments and teacher deployments. The Pakistan Bureau of Statistics conducts censuses, labour force surveys, and household economic surveys. The State Bank holds financial transaction data. Dozens of other administrative and private sector datasets exist alongside these.
 
 And yet most of this data sits in institutional silos — collected by different agencies, for different purposes, using different definitions, in incompatible formats, with no systematic mechanism for combining it. The result is that a country of 241 million people makes policy decisions on the basis of information that is often incomplete, outdated, or fragmented.
 
